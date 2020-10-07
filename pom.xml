@@ -12,7 +12,7 @@
 	<groupId>br.com.nextubs</groupId>
 	<artifactId>nextubs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>nextubs</name>
 	<description>Api that lists the closest Ubs to a given location</description>
 
@@ -87,7 +87,6 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.5.1</version>
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
