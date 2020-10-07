@@ -27,3 +27,7 @@ http://base_url_application/swagger-ui.html
 ## Run Tests
 
 To run the application tests, just go to NextubsApplicationTests class in the <b>src/test/java</b> and run using JUnit
+
+## Tecnologies
+
+Spring Boot, Spring Data, Maven, JUnit, Lombok, MySQL, Swagger
